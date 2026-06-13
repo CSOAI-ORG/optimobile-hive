@@ -1,0 +1,19 @@
+{
+  "acpVersion": "0.1",
+  "agent": {
+    "name": "optimobile",
+    "description": "Mobile analytics (FLIP \u2014 Firebase/Crashlytics dominate).",
+    "version": "0.1.0",
+    "provider": "CSOAI-ORG",
+    "interfaces": [
+      {
+        "type": "a2a",
+        "url": "https://optimobile.ai"
+      }
+    ],
+    "capabilities": [
+      "a2a-mesh",
+      "memoria-commit"
+    ]
+  }
+}
