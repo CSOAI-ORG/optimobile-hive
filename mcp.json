@@ -1,0 +1,14 @@
+{
+  "name": "optimobile.ai",
+  "title": "OptiMobile — Mobile Asset Optimisation",
+  "description": "AI-driven mobile plant and vehicle optimisation for construction, logistics, and heavy equipment fleets.",
+  "cluster": "INDUSTRY",
+  "servers": [
+        { "id": "fleet-mcp.sov3.meok.ai", "url": "https://fleet-mcp.sov3.meok.ai/", "protocol": "mcp-1.0" },
+    { "id": "logistics-mcp.sov3.meok.ai", "url": "https://logistics-mcp.sov3.meok.ai/", "protocol": "mcp-1.0" },
+    { "id": "asset-optimiser-mcp.sov3.meok.ai", "url": "https://asset-optimiser-mcp.sov3.meok.ai/", "protocol": "mcp-1.0" }
+  ],
+  "registrar": "https://mcp-registry.sov3.meok.ai/register",
+  "protocol": "https://openMCP.ai/protocol",
+  "$schema": "https://openMCP.ai/schemas/mcp-server-list.json"
+}
